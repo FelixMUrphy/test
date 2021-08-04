@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-first = false;
-second = true;
-=======
-first = true;
-second = false;
->>>>>>> iss1
